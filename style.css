@@ -1,0 +1,1451 @@
+.nav {
+    z-index: 90;
+    padding: 0px;
+    padding-right: 10px;
+    padding-left: 40px;
+    display: flex;
+    background-color: rgb(115, 115, 228);
+  }
+  
+  .nav_top {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+  }
+  .logo {
+    float: left;
+    width: 35%;
+  }
+  .logo img {
+    padding: 3px;
+    border-left: 5px;
+    border-radius: 100%;
+  }
+  .nav_side {
+    float: right;
+    width: 60%;
+    margin-top: 40px;
+    margin-left: 100px;
+  }
+  .nav_side a:hover {
+    color: aqua;
+    text-decoration: solid;
+    transition: all 1s ease;
+  }
+  .nav_side a {
+    margin-right: 30px;
+    margin-top: 30px;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: cosmic, sans-serif;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+  }
+
+  .first{
+     
+    display: flex;
+   padding-left: 140px;
+   padding-top: 70px;
+   padding-right: 50px;
+   padding-bottom: 70px;
+    padding-bottom: 50px;
+    position: relative;
+    margin-top: 100px;
+    border: 5px solid black;
+    border-radius: 50px;
+    
+}
+.first .first_img{
+
+  margin-right: 50px;
+    float: left;
+    
+}
+.first .first_content {
+  padding-top: 10px;
+    margin-left: 50px;
+    margin-right: 10px;
+    margin-top: -30px;
+    
+   
+    
+}
+.first .first_pricing{
+    float: right;
+    padding-top: 30px;
+    padding-left: 60px;
+    margin-left: 20px;
+    margin-right: 50px;
+  
+    padding-left: 50px;
+}
+.buying1{
+  margin-left: 50px;
+  margin-right: 50px;
+    padding-left: -200px;
+    text-align: center;
+    
+}
+.buying1 a{
+    text-decoration: none;
+  background-color: black;
+  color: white;
+  font-family: cosmic, sans-serif;
+  border: 2px solid white;
+  border-radius: 10px;
+  line-height: 70px;
+  font-size: 25px;
+  
+  
+}
+.buying1 a:hover{
+    background-color: red;
+    color: blue;
+    border: none;
+    border-bottom: 4px solid orange;
+    transition: 0.5s;
+}
+
+.second{
+     
+    display: flex;
+   padding-left: 140px;
+   padding-top: 70px;
+   padding-right: 50px;
+   padding-bottom: 70px;
+    padding-bottom: 50px;
+    position: relative;
+    margin-top: 100px;
+    border: 5px solid black;
+    border-radius: 50px;
+    
+}
+.second .second_img{
+
+  margin-right: 50px;
+    float: left;
+    
+}
+.second .second_content {
+  padding-top: 10px;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-top: -30px;
+   
+   
+    
+}
+.second .second_pricing{
+    float: right;
+    padding-top: 30px;
+    padding-left: 60px;
+    margin-left: 20px;
+    margin-right: 50px;
+    
+    padding-left: 50px;
+}
+.buying2{
+  margin-left: 50px;
+  margin-right: 50px;
+    padding-left: -200px;
+    text-align: center;
+    
+}
+.buying2 a{
+    text-decoration: none;
+  background-color: black;
+  color: white;
+  font-family: cosmic, sans-serif;
+  border: 2px solid white;
+  border-radius: 10px;
+  line-height: 70px;
+  font-size: 25px;
+  
+  
+}
+.buying2 a:hover{
+    background-color: red;
+    color: blue;
+    border: none;
+    border-bottom: 4px solid orange;
+    transition: 0.5s;
+}
+
+
+
+  .third{
+     
+      display: flex;
+     padding-left: 140px;
+     padding-top: 70px;
+     padding-right: 50px;
+     padding-bottom: 70px;
+      padding-bottom: 50px;
+      position: relative;
+      margin-top: 100px;
+      border: 5px solid black;
+      border-radius: 50px;
+      
+  }
+  .third .third_img{
+ 
+    margin-right: 50px;
+      float: left;
+      
+  }
+  .third .third_content {
+    padding-top: 10px;
+      margin-left: 50px;
+      margin-right: 20px;
+      margin-top: -30px;
+     
+     
+      
+  }
+  .third .third_pricing{
+      float: right;
+      padding-top: 30px;
+      padding-left: 60px;
+      margin-left: 20px;
+      margin-right: 50px;
+      
+      padding-left: 50px;
+  }
+  .buying3{
+    margin-left: 50px;
+    margin-right: 50px;
+      padding-left: -200px;
+      text-align: center;
+      
+  }
+  .buying3 a{
+      text-decoration: none;
+    background-color: black;
+    color: white;
+    font-family: cosmic, sans-serif;
+    border: 2px solid white;
+    border-radius: 10px;
+    line-height: 70px;
+    font-size: 25px;
+    
+    
+  }
+  .buying3 a:hover{
+      background-color: red;
+      color: blue;
+      border: none;
+      border-bottom: 4px solid orange;
+      transition: 0.5s;
+  }
+
+  .fourth{
+     
+    display: flex;
+   padding-left: 140px;
+   padding-top: 70px;
+   padding-right: 50px;
+   padding-bottom: 70px;
+    padding-bottom: 50px;
+    position: relative;
+    margin-top: 100px;
+    border: 5px solid black;
+    border-radius: 50px;
+    
+}
+.fourth .fourth_img{
+
+  margin-right: 50px;
+    float: left;
+    
+}
+.fourth .fourth_content {
+  padding-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -30px;
+   
+   
+    
+}
+.fourth .fourth_pricing{
+    float: right;
+    padding-top: 30px;
+    padding-left: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    padding-left: 50px;
+}
+.buying4{
+  margin-left: 50px;
+  margin-right: 50px;
+    padding-left: -200px;
+    text-align: center;
+    
+}
+.buying4 a{
+    text-decoration: none;
+  background-color: black;
+  color: white;
+  font-family: cosmic, sans-serif;
+  border: 2px solid white;
+  border-radius: 10px;
+  line-height: 70px;
+  font-size: 25px;
+  
+  
+}
+.buying4 a:hover{
+    background-color: red;
+    color: blue;
+    border: none;
+    border-bottom: 4px solid orange;
+    transition: 0.5s;
+}
+
+ 
+.fifth{
+     
+    display: flex;
+   padding-left: 140px;
+   padding-top: 70px;
+   padding-right: 50px;
+   padding-bottom: 70px;
+    padding-bottom: 50px;
+    position: relative;
+    margin-top: 100px;
+    border: 5px solid black;
+    border-radius: 50px;
+    
+}
+.fifth .fifth_img{
+
+  margin-right: 50px;
+    float: left;
+    
+}
+.fifth .fifth_content {
+  padding-top: 10px;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-top: -30px;
+   
+   
+    
+}
+.fifth .fifth_pricing{
+    float: right;
+    padding-top: 30px;
+    padding-left: 60px;
+    margin-left: 20px;
+    margin-right: 50px;
+    
+    padding-left: 50px;
+}
+.buying5{
+  margin-left: 50px;
+  margin-right: 50px;
+    padding-left: -200px;
+    text-align: center;
+    
+}
+.buying5 a{
+    text-decoration: none;
+  background-color: black;
+  color: white;
+  font-family: cosmic, sans-serif;
+  border: 2px solid white;
+  border-radius: 10px;
+  line-height: 70px;
+  font-size: 25px;
+  
+  
+}
+.buying5 a:hover{
+    background-color: red;
+    color: blue;
+    border: none;
+    border-bottom: 4px solid orange;
+    transition: 0.5s;
+}
+
+.sixth{
+     
+    display: flex;
+   padding-left: 140px;
+   padding-top: 70px;
+   padding-right: 50px;
+   padding-bottom: 70px;
+    padding-bottom: 50px;
+    position: relative;
+    margin-top: 100px;
+    border: 5px solid black;
+    border-radius: 50px;
+    
+}
+.sixth .sixth_img{
+
+  margin-right: 50px;
+    float: left;
+    
+}
+.sixth .sixth_content {
+  padding-top: 10px;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-top: -30px;
+   
+   
+    
+}
+.sixth .sixth_pricing{
+    float: right;
+    padding-top: 30px;
+    padding-left: 60px;
+    margin-left: 20px;
+    margin-right: 50px;
+    
+    padding-left: 50px;
+}
+.buying6{
+  margin-left: 50px;
+  margin-right: 50px;
+    padding-left: -200px;
+    text-align: center;
+    
+}
+.buying6 a{
+    text-decoration: none;
+  background-color: black;
+  color: white;
+  font-family: cosmic, sans-serif;
+  border: 2px solid white;
+  border-radius: 10px;
+  line-height: 70px;
+  font-size: 25px;
+  
+  
+}
+.buying6 a:hover{
+    background-color: red;
+    color: blue;
+    border: none;
+    border-bottom: 4px solid orange;
+    transition: 0.5s;
+}
+
+
+
+  .seventh{
+     
+      display: flex;
+     padding-left: 140px;
+     padding-top: 70px;
+     padding-right: 50px;
+     padding-bottom: 70px;
+      padding-bottom: 50px;
+      position: relative;
+      margin-top: 100px;
+      border: 5px solid black;
+      border-radius: 50px;
+      
+  }
+  .seventh .seventh_img{
+ 
+    margin-right: 50px;
+      float: left;
+      
+  }
+  .seventh .seventh_content {
+    padding-top: 10px;
+      margin-left: 50px;
+      margin-right: 20px;
+      margin-top: -30px;
+     
+     
+      
+  }
+  .seventh .seventh_pricing{
+      float: right;
+      padding-top: 30px;
+      padding-left: 60px;
+      margin-left: 20px;
+      margin-right: 50px;
+      
+      padding-left: 50px;
+  }
+  .buying7{
+    margin-left: 50px;
+    margin-right: 50px;
+      padding-left: -200px;
+      text-align: center;
+      
+  }
+  .buying7 a{
+      text-decoration: none;
+    background-color: black;
+    color: white;
+    font-family: cosmic, sans-serif;
+    border: 2px solid white;
+    border-radius: 10px;
+    line-height: 70px;
+    font-size: 25px;
+    
+    
+  }
+  .buying7 a:hover{
+      background-color: red;
+      color: blue;
+      border: none;
+      border-bottom: 4px solid orange;
+      transition: 0.5s;
+  }
+
+  .eighth{
+     
+    display: flex;
+   padding-left: 140px;
+   padding-top: 70px;
+   padding-right: 50px;
+   padding-bottom: 70px;
+    padding-bottom: 50px;
+    position: relative;
+    margin-top: 100px;
+    border: 5px solid black;
+    border-radius: 50px;
+    
+}
+.eighth .eighth_img{
+
+  margin-right: 50px;
+    float: left;
+    
+}
+.eighth .eighth_content {
+  padding-top: 10px;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-top: -30px;
+   
+   
+    
+}
+.eighth .eighth_pricing{
+    float: right;
+    padding-top: 30px;
+    padding-left: 60px;
+    margin-left: 20px;
+    margin-right: 50px;
+    
+    padding-left: 50px;
+}
+.buying8{
+  margin-left: 50px;
+  margin-right: 50px;
+    padding-left: -200px;
+    text-align: center;
+    
+}
+.buying8 a{
+    text-decoration: none;
+  background-color: black;
+  color: white;
+  font-family: cosmic, sans-serif;
+  border: 2px solid white;
+  border-radius: 10px;
+  line-height: 70px;
+  font-size: 25px;
+  
+  
+}
+.buying8 a:hover{
+    background-color: red;
+    color: blue;
+    border: none;
+    border-bottom: 4px solid orange;
+    transition: 0.5s;
+}
+
+
+.ninth{
+     
+    display: flex;
+   padding-left: 140px;
+   padding-top: 70px;
+   padding-right: 50px;
+   padding-bottom: 70px;
+    padding-bottom: 50px;
+    position: relative;
+    margin-top: 100px;
+    border: 5px solid black;
+    border-radius: 50px;
+    
+}
+.ninth .ninth_img{
+
+  margin-right: 50px;
+    float: left;
+    
+}
+.ninth .ninth_content {
+  padding-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -30px;
+   
+   
+    
+}
+.ninth .ninth_pricing{
+    float: right;
+    padding-top: 30px;
+    padding-left: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    padding-left: 50px;
+}
+.buying9{
+  margin-left: 50px;
+  margin-right: 50px;
+    padding-left: -200px;
+    text-align: center;
+    
+}
+.buying9 a{
+    text-decoration: none;
+  background-color: black;
+  color: white;
+  font-family: cosmic, sans-serif;
+  border: 2px solid white;
+  border-radius: 10px;
+  line-height: 70px;
+  font-size: 25px;
+  
+  
+}
+.buying9 a:hover{
+    background-color: red;
+    color: blue;
+    border: none;
+    border-bottom: 4px solid orange;
+    transition: 0.5s;
+}
+
+.tenth{
+     
+    display: flex;
+   padding-left: 140px;
+   padding-top: 70px;
+   padding-right: 50px;
+   padding-bottom: 70px;
+    padding-bottom: 50px;
+    position: relative;
+    margin-top: 100px;
+    border: 5px solid black;
+    border-radius: 50px;
+    
+}
+.tenth .tenth_img{
+
+  margin-right: 50px;
+    float: left;
+    
+}
+.tenth .tenth_content {
+  padding-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -30px;
+   
+   
+    
+}
+.tenth .tenth_pricing{
+    float: right;
+    padding-top: 30px;
+    padding-left: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    padding-left: 50px;
+}
+.buying10{
+  margin-left: 50px;
+  margin-right: 50px;
+    padding-left: -200px;
+    text-align: center;
+    
+}
+.buying10 a{
+    text-decoration: none;
+  background-color: black;
+  color: white;
+  font-family: cosmic, sans-serif;
+  border: 2px solid white;
+  border-radius: 10px;
+  line-height: 70px;
+  font-size: 25px;
+  
+  
+}
+.buying10 a:hover{
+    background-color: red;
+    color: blue;
+    border: none;
+    border-bottom: 4px solid orange;
+    transition: 0.5s;
+}
+
+
+
+  .eleventh{
+     
+      display: flex;
+     padding-left: 140px;
+     padding-top: 70px;
+     padding-right: 50px;
+     padding-bottom: 70px;
+      padding-bottom: 50px;
+      position: relative;
+      margin-top: 100px;
+      border: 5px solid black;
+      border-radius: 50px;
+      
+  }
+  .eleventh .eleventh_img{
+ 
+    margin-right: 50px;
+      float: left;
+      
+  }
+  .eleventh .eleventh_content {
+    padding-top: 10px;
+      margin-left: 50px;
+      margin-right: 50px;
+      margin-top: -30px;
+     
+     
+      
+  }
+  .eleventh .eleventh_pricing{
+      float: right;
+      padding-top: 30px;
+      padding-left: 60px;
+      margin-left: 50px;
+      margin-right: 50px;
+      
+      padding-left: 50px;
+  }
+  .buying11{
+    margin-left: 50px;
+    margin-right: 50px;
+      padding-left: -200px;
+      text-align: center;
+      
+  }
+  .buying11 a{
+      text-decoration: none;
+    background-color: black;
+    color: white;
+    font-family: cosmic, sans-serif;
+    border: 2px solid white;
+    border-radius: 10px;
+    line-height: 70px;
+    font-size: 25px;
+    
+    
+  }
+  .buying11 a:hover{
+      background-color: red;
+      color: blue;
+      border: none;
+      border-bottom: 4px solid orange;
+      transition: 0.5s;
+  }
+  
+
+.twelveth{ 
+    display: flex;
+   padding-left: 140px;
+   padding-top: 70px;
+   padding-right: 50px;
+   padding-bottom: 70px;
+    padding-bottom: 50px;
+    position: relative;
+    margin-top: 100px;
+    border: 5px solid black;
+    border-radius: 50px;
+    
+}
+.twelveth .twelveth_img{
+  margin-right: 30px;
+    float: left;
+    
+}
+.twelveth .twelveth_content {
+  padding-top: 10px;
+    margin-left: 30px;
+    margin-right: 120px;
+    margin-top: -30px;
+    line-height: 20px;
+    
+    
+}
+.twelveth .twelveth_pricing{
+    float: right;
+    padding-top: 30px;
+    padding-left: 30px;
+    margin-left: 30px;
+    margin-right: 50px;
+    
+    padding-left: 50px;
+}
+.buying12{
+  margin-left: 50px;
+  margin-right: 50px;
+    text-align: center;
+    
+}
+.buying12 a{
+    text-decoration: none;
+  background-color: black;
+  color: white;
+  font-family: cosmic, sans-serif;
+  border: 2px solid white;
+  border-radius: 10px;
+  line-height: 70px;
+  font-size: 25px;
+  
+  
+}
+.buying12 a:hover{
+    background-color: red;
+    color: blue;
+    border: none;
+    border-bottom: 4px solid orange;
+    transition: 0.5s;
+}
+.thirteen{ 
+  display: flex;
+ padding-left: 140px;
+ padding-top: 70px;
+ padding-right: 50px;
+ padding-bottom: 70px;
+  padding-bottom: 50px;
+  position: relative;
+  margin-top: 100px;
+  border: 5px solid black;
+  border-radius: 50px;
+  
+}
+.thirteen .thirteen_img{
+margin-right: 30px;
+  float: left;
+  
+}
+.thirteen .thirteen_content {
+padding-top: 10px;
+  margin-left: 30px;
+  margin-right: 120px;
+  margin-top: -30px;
+  line-height: 20px;
+  
+  
+}
+.thirteen .thirteen_pricing{
+  float: right;
+  padding-top: 30px;
+  padding-left: 30px;
+  margin-left: 30px;
+  margin-right: 50px;
+  
+  padding-left: 50px;
+}
+.buying13{
+margin-left: 50px;
+margin-right: 50px;
+  text-align: center;
+  
+}
+.buying13 a{
+  text-decoration: none;
+background-color: black;
+color: white;
+font-family: cosmic, sans-serif;
+border: 2px solid white;
+border-radius: 10px;
+line-height: 70px;
+font-size: 25px;
+
+
+}
+.buying13 a:hover{
+  background-color: red;
+  color: blue;
+  border: none;
+  border-bottom: 4px solid orange;
+  transition: 0.5s;
+}
+.fourteen{ 
+  display: flex;
+ padding-left: 140px;
+ padding-top: 70px;
+ padding-right: 50px;
+ padding-bottom: 70px;
+  padding-bottom: 50px;
+  position: relative;
+  margin-top: 100px;
+  border: 5px solid black;
+  border-radius: 50px;
+  
+}
+.fourteen .fourteen_img{
+margin-right: 30px;
+  float: left;
+  
+}
+.fourteen .fourteen_content {
+padding-top: 10px;
+  margin-left: 30px;
+  margin-right: 120px;
+  margin-top: -30px;
+  line-height: 20px;
+  
+  
+}
+.fourteen .fourteen_pricing{
+  float: right;
+  padding-top: 30px;
+  padding-left: 30px;
+  margin-left: 30px;
+  margin-right: 50px;
+  
+  padding-left: 50px;
+}
+.buying14{
+margin-left: 50px;
+margin-right: 50px;
+  text-align: center;
+  
+}
+.buying14 a{
+  text-decoration: none;
+background-color: black;
+color: white;
+font-family: cosmic, sans-serif;
+border: 2px solid white;
+border-radius: 10px;
+line-height: 70px;
+font-size: 25px;
+
+
+}
+.buying14 a:hover{
+  background-color: red;
+  color: blue;
+  border: none;
+  border-bottom: 4px solid orange;
+  transition: 0.5s;
+}
+.fifteen{ 
+  display: flex;
+ padding-left: 140px;
+ padding-top: 70px;
+ padding-right: 50px;
+ padding-bottom: 70px;
+  padding-bottom: 50px;
+  position: relative;
+  margin-top: 100px;
+  border: 5px solid black;
+  border-radius: 50px;
+  
+}
+.fifteen .fifteen_img{
+margin-right: 30px;
+  float: left;
+  
+}
+.fifteen .fifteen_content {
+padding-top: 10px;
+  margin-left: 30px;
+  margin-right: 120px;
+  margin-top: -30px;
+  line-height: 20px;
+  
+  
+}
+.fifteen .fifteen_pricing{
+  float: right;
+  padding-top: 30px;
+  padding-left: 30px;
+  margin-left: 30px;
+  margin-right: 50px;
+  
+  padding-left: 50px;
+}
+.buying15{
+margin-left: 50px;
+margin-right: 50px;
+  text-align: center;
+  
+}
+.buying15 a{
+  text-decoration: none;
+background-color: black;
+color: white;
+font-family: cosmic, sans-serif;
+border: 2px solid white;
+border-radius: 10px;
+line-height: 70px;
+font-size: 25px;
+
+
+}
+.buying15 a:hover{
+  background-color: red;
+  color: blue;
+  border: none;
+  border-bottom: 4px solid orange;
+  transition: 0.5s;
+}
+.sixteen{ 
+  display: flex;
+ padding-left: 140px;
+ padding-top: 70px;
+ padding-right: 50px;
+ padding-bottom: 70px;
+  padding-bottom: 50px;
+  position: relative;
+  margin-top: 100px;
+  border: 5px solid black;
+  border-radius: 50px;
+  
+}
+.sixteen .sixteen_img{
+margin-right: 30px;
+  float: left;
+  
+}
+.sixteen .sixteen_content {
+padding-top: 10px;
+  margin-left: 30px;
+  margin-right: 120px;
+  margin-top: -30px;
+  line-height: 20px;
+  
+  
+}
+.sixteen .sixteen_pricing{
+  float: right;
+  padding-top: 30px;
+  padding-left: 30px;
+  margin-left: 30px;
+  margin-right: 50px;
+  
+  padding-left: 50px;
+}
+.buying16{
+margin-left: 50px;
+margin-right: 50px;
+  text-align: center;
+  
+}
+.buying16 a{
+  text-decoration: none;
+background-color: black;
+color: white;
+font-family: cosmic, sans-serif;
+border: 2px solid white;
+border-radius: 10px;
+line-height: 70px;
+font-size: 25px;
+
+}
+.buying16 a:hover{
+  background-color: red;
+  color: blue;
+  border: none;
+  border-bottom: 4px solid orange;
+  transition: 0.5s;
+}
+.seventeen{ 
+  display: flex;
+ padding-left: 140px;
+ padding-top: 70px;
+ padding-right: 50px;
+ padding-bottom: 70px;
+  padding-bottom: 50px;
+  position: relative;
+  margin-top: 100px;
+  border: 5px solid black;
+  border-radius: 50px;
+  
+}
+.seventeen .seventeen_img{
+margin-right: 30px;
+  float: left;
+  
+}
+.seventeen .seventeen_content {
+padding-top: 10px;
+  margin-left: 30px;
+  margin-right: 120px;
+  margin-top: -30px;
+  line-height: 20px;
+  
+  
+}
+.seventeen .seventeen_pricing{
+  float: right;
+  padding-top: 30px;
+  padding-left: 30px;
+  margin-left: 30px;
+  margin-right: 50px;
+  
+  padding-left: 50px;
+}
+.buying17{
+margin-left: 50px;
+margin-right: 50px;
+  text-align: center;
+  
+}
+.buying17 a{
+  text-decoration: none;
+background-color: black;
+color: white;
+font-family: cosmic, sans-serif;
+border: 2px solid white;
+border-radius: 10px;
+line-height: 70px;
+font-size: 25px;
+
+}
+.buying17 a:hover{
+  background-color: red;
+  color: blue;
+  border: none;
+  border-bottom: 4px solid orange;
+  transition: 0.5s;
+}
+.eighteen{ 
+  display: flex;
+ padding-left: 140px;
+ padding-top: 70px;
+ padding-right: 50px;
+ padding-bottom: 70px;
+  padding-bottom: 50px;
+  position: relative;
+  margin-top: 100px;
+  border: 5px solid black;
+  border-radius: 50px;
+  
+}
+.eighteen .eighteen_img{
+margin-right: 30px;
+  float: left;
+  
+}
+.eighteen .eighteen_content {
+padding-top: 10px;
+  margin-left: 30px;
+  margin-right: 120px;
+  margin-top: -30px;
+  line-height: 20px;
+  
+  
+}
+.eighteen .eighteen_pricing{
+  float: right;
+  padding-top: 30px;
+  padding-left: 30px;
+  margin-left: 30px;
+  margin-right: 50px;
+  
+  padding-left: 50px;
+}
+.buying18{
+margin-left: 50px;
+margin-right: 50px;
+  text-align: center;
+  
+}
+.buying18 a{
+  text-decoration: none;
+background-color: black;
+color: white;
+font-family: cosmic, sans-serif;
+border: 2px solid white;
+border-radius: 10px;
+line-height: 70px;
+font-size: 25px;
+
+}
+.buying18 a:hover{
+  background-color: red;
+  color: blue;
+  border: none;
+  border-bottom: 4px solid orange;
+  transition: 0.5s;
+}
+.nineteen{ 
+  display: flex;
+ padding-left: 140px;
+ padding-top: 70px;
+ padding-right: 50px;
+ padding-bottom: 70px;
+  padding-bottom: 50px;
+  position: relative;
+  margin-top: 100px;
+  border: 5px solid black;
+  border-radius: 50px;
+  
+}
+.nineteen .nineteen_img{
+margin-right: 30px;
+  float: left;
+  
+}
+.nineteen .nineteen_content {
+padding-top: 10px;
+  margin-left: 30px;
+  margin-right: 120px;
+  margin-top: -30px;
+  line-height: 20px;
+  
+  
+}
+.nineteen .nineteen_pricing{
+  float: right;
+  padding-top: 30px;
+  padding-left: 30px;
+  margin-left: 30px;
+  margin-right: 50px;
+  
+  padding-left: 50px;
+}
+.buying19{
+margin-left: 50px;
+margin-right: 50px;
+  text-align: center;
+  
+}
+.buying19 a{
+  text-decoration: none;
+background-color: black;
+color: white;
+font-family: cosmic, sans-serif;
+border: 2px solid white;
+border-radius: 10px;
+line-height: 70px;
+font-size: 25px;
+
+}
+.buying19 a:hover{
+  background-color: red;
+  color: blue;
+  border: none;
+  border-bottom: 4px solid orange;
+  transition: 0.5s;
+}
+.twenty{ 
+  display: flex;
+ padding-left: 140px;
+ padding-top: 70px;
+ padding-right: 50px;
+ padding-bottom: 70px;
+  padding-bottom: 50px;
+  position: relative;
+  margin-top: 100px;
+  border: 5px solid black;
+  border-radius: 50px;
+  
+}
+.twenty .twenty_img{
+margin-right: 30px;
+  float: left;
+  
+}
+.twenty .twenty_content {
+padding-top: 10px;
+  margin-left: 30px;
+  margin-right: 120px;
+  margin-top: -30px;
+  line-height: 20px;
+  
+  
+}
+.twenty .twenty_pricing{
+  float: right;
+  padding-top: 30px;
+  padding-left: 30px;
+  margin-left: 30px;
+  margin-right: 50px;
+  
+  padding-left: 50px;
+}
+.buying20{
+margin-left: 50px;
+margin-right: 50px;
+  text-align: center;
+  
+}
+.buying20 a{
+  text-decoration: none;
+background-color: black;
+color: white;
+font-family: cosmic, sans-serif;
+border: 2px solid white;
+border-radius: 10px;
+line-height: 70px;
+font-size: 25px;
+
+}
+.buying20 a:hover{
+  background-color: red;
+  color: blue;
+  border: none;
+  border-bottom: 4px solid orange;
+  transition: 0.5s;
+}
+.about1{
+ 
+  display: flex;
+}
+.about_heading{
+  text-align: center;
+  color: red;
+  margin-top: 150px;
+}
+.about_heading h1{
+  font-size: 50px;
+}
+.about1 .about_img{
+  padding-left: 150px;
+  float: left;
+ 
+  width: 30%;
+}
+.about1 .about_content{
+  float: right;
+  width: 35%;
+  padding-left: -100px;
+}
+.about2{
+ padding-top: 30px;
+  display: flex;
+}
+.about_heading{
+  text-align: center;
+  color: red;
+  margin-top: 150px;
+}
+.about_heading h1{
+  font-size: 50px;
+}
+.about2 .about_img{
+  padding-left: 150px;
+  float: left;
+ 
+  width: 30%;
+}
+.about2 .about_content{
+  float: right;
+  width: 35%;
+  padding-left: -100px;
+}
+footer {
+    background-color: #99a3a4;
+    padding: 30px;
+    color: black;
+    font-size: 18px;
+    margin-top: 100px;
+  }
+  footer .About {
+    text-align: center;
+  }
+  footer .About h4 {
+    font-size: 20px;
+    padding: 5px;
+  }
+  footer .About a {
+    text-decoration: none;
+    margin: 10px;
+  
+    font-size: 18px;
+  }
+  footer .About a:hover {
+    color: white;
+  }
+  
+  footer .Help {
+    text-align: center;
+  }
+  footer .Help h4 {
+    font-size: 20px;
+    padding: 5px;
+  }
+  footer .Help a {
+    text-decoration: none;
+    margin: 10px;
+  
+    font-size: 18px;
+  }
+  footer .Help a:hover {
+    color: white;
+  }
+  footer .Contacts {
+    text-align: center;
+  }
+  footer .Contacts {
+    font-size: 20px;
+    padding: 5px;
+  }
+  footer .Contacts a {
+    text-decoration: none;
+    margin: 10px;
+  
+    font-size: 18px;
+  }
+  footer .Contacts a:hover {
+    color: white;
+  }
+  footer .Social {
+    text-align: center;
+  }
+  footer .Social h4 {
+    font-size: 20px;
+    padding: 5px;
+  }
+  footer .Social a {
+    text-decoration: none;
+    margin: 10px;
+  
+    font-size: 18px;
+  }
+  footer .Social a:hover {
+    color: white;
+  }
+  footer .Policy {
+    text-align: center;
+  }
+  footer .Policy h4 {
+    font-size: 20px;
+    padding: 5px;
+  }
+  footer .Policy a {
+    text-decoration: none;
+    margin: 10px;
+  
+    font-size: 18px;
+  }
+  footer .Policy a:hover {
+    color: white;
+  }
+  
